@@ -96,8 +96,12 @@
     transform-origin: 50% 50% 0px;
     border-radius: 5px;
     color: white;
-    line-height: 90px;
-    padding-left: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 2px;
+    padding-right: 2px;
     font-size: 16px;
     background: lightblue;
     text-transform: uppercase;

@@ -10,15 +10,15 @@ const Hero = () => {
                 Do you need a Hand?<br/>
                 <span className="">Really We got you.</span>
                 </p>
-                <div className="flex justify-center ">
-                    <a className="mt-4 text-sm md:text-base gradient-button-hero px-6 py-4 rounded-full text-white"
+                <div className="mt-8 flex flex-col lg:flex-row justify-center w-full lg:w-3/4 mx-auto xl:w-full">
+                    <a className="text-base w-9/12 m-auto max-w-sm sm:w-3/4 md:m-1/4 text-center lg:w-full md:text-base gradient-button-hero px-6 py-4 rounded-full text-white"
                         href="https://www.goodlives.in/call-back/">Request for a Call Back</a>
-                    <a className="mt-4 text-sm md:text-base ml-6 gradient-button-hero px-6 py-4 rounded-full text-white"
+                    <a className="text-base mt-4 lg:mt-0 max-w-sm w-9/12 m-auto sm:w-3/4 md:m-1/4 text-center lg:w-full md:text-base lg:ml-6 gradient-button-hero px-6 py-4 rounded-full text-white"
                         href="https://api.whatsapp.com/send/?phone=917478530132">Talk to us on Whatsapp</a>
                 </div>
             </div>
-            <div className="  overflow-hidden m-auto ">
-                <img src={hero} className="object-center object-contain" alt="" />
+            <div className=" overflow-hidden m-auto ">
+                <img src={hero} className=" object-center object-contain" alt="" />
             </div>
         </div>
     )

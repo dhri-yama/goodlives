@@ -17,7 +17,7 @@ const Contact = () => {
         <div className="flex flex-col lg:flex-row-reverse w-full xl:w-10/12 m-auto" >
             <img src={getintouch} alt="" style={{"transform": "scaleX(-1)"}} className="w-9/12 m-auto md:w-2/5 object-cover object-center" />
             <div className="w-full flex flex-col justify-center items-center mt-6">
-                <h3 className="text-6xl font-thin lg:text-5xl xl:text-6xl">Still have doubts?</h3>
+                <h3 className="text-4xl md:text-6xl text-center font-thin lg:text-5xl xl:text-6xl">Still have doubts?</h3>
                 
                 <AnimatedH text={"Contact Us."}/>
                 <p className="text-xl font-thin italic">Email Address: contact@goodlives.in</p>
