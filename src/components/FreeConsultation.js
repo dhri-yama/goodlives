@@ -1,5 +1,5 @@
 import React from 'react'
-import confused from './../assets/images/confused.svg'
+import confused from './../assets/images/confused.png'
 
 const FreeConsultation = () => {
     return (

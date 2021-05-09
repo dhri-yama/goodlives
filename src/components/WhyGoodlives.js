@@ -1,5 +1,5 @@
 import React from 'react'
-import phone from './../assets/images/3dphone.svg'
+import phone from './../assets/images/3dphone.png'
 import DraggableList from './DragableList'
 
 const WhyGoodlives = () => {

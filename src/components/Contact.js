@@ -1,6 +1,6 @@
 import React from 'react'
 import {useState} from 'react'
-import getintouch from './../assets/images/getintouch.svg'
+import getintouch from './../assets/images/getintouch.png'
 import AnimatedH from './AnimatedH'
 
 const Contact = () => {
