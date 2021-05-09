@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/goodlives/static/css/main.fdce0dfa.chunk.css",
-    "main.js": "/goodlives/static/js/main.9cb4a524.chunk.js",
-    "main.js.map": "/goodlives/static/js/main.9cb4a524.chunk.js.map",
+    "main.css": "/goodlives/static/css/main.443f8857.chunk.css",
+    "main.js": "/goodlives/static/js/main.5bb59c50.chunk.js",
+    "main.js.map": "/goodlives/static/js/main.5bb59c50.chunk.js.map",
     "runtime-main.js": "/goodlives/static/js/runtime-main.59ef0b38.js",
     "runtime-main.js.map": "/goodlives/static/js/runtime-main.59ef0b38.js.map",
     "static/js/2.c0aa2f33.chunk.js": "/goodlives/static/js/2.c0aa2f33.chunk.js",
     "static/js/2.c0aa2f33.chunk.js.map": "/goodlives/static/js/2.c0aa2f33.chunk.js.map",
     "index.html": "/goodlives/index.html",
-    "static/css/main.fdce0dfa.chunk.css.map": "/goodlives/static/css/main.fdce0dfa.chunk.css.map",
+    "static/css/main.443f8857.chunk.css.map": "/goodlives/static/css/main.443f8857.chunk.css.map",
     "static/js/2.c0aa2f33.chunk.js.LICENSE.txt": "/goodlives/static/js/2.c0aa2f33.chunk.js.LICENSE.txt",
     "static/media/3dphone.d026681e.png": "/goodlives/static/media/3dphone.d026681e.png",
     "static/media/confused.07ac2b75.png": "/goodlives/static/media/confused.07ac2b75.png",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.59ef0b38.js",
     "static/js/2.c0aa2f33.chunk.js",
-    "static/css/main.fdce0dfa.chunk.css",
-    "static/js/main.9cb4a524.chunk.js"
+    "static/css/main.443f8857.chunk.css",
+    "static/js/main.5bb59c50.chunk.js"
   ]
 }
